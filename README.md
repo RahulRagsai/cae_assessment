@@ -12,6 +12,9 @@ Make sure you have the following installed on your system:
 
 - Roster - CrewConnex.html is placed on the root folder of the project directory.
 
+- Install dependencies
+    composer install
+
 - Do a fresh migration using the below command
     php artisan migrate:fresh
 
